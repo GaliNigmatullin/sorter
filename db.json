@@ -1,0 +1,26 @@
+{
+    "movies":[
+        {
+            "name": "wolsd",
+            "year": 2020,
+            "rating": 300
+        },
+        {
+            "name": "cars",
+            "year": 2015,
+            "rating": 4
+        },
+        {
+            "name": "jhon",
+            "year": 2013,
+            "rating": 1
+        },
+        {
+            "name": "army",
+            "year": 2000,
+            "rating": 2
+        }
+    ]
+}
+
+
